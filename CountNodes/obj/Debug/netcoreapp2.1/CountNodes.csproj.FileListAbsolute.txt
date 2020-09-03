@@ -1,0 +1,11 @@
+C:\Users\e79297\source\repos\CountNodes\CountNodes\bin\Debug\netcoreapp2.1\CountNodes.deps.json
+C:\Users\e79297\source\repos\CountNodes\CountNodes\bin\Debug\netcoreapp2.1\CountNodes.runtimeconfig.json
+C:\Users\e79297\source\repos\CountNodes\CountNodes\bin\Debug\netcoreapp2.1\CountNodes.runtimeconfig.dev.json
+C:\Users\e79297\source\repos\CountNodes\CountNodes\bin\Debug\netcoreapp2.1\CountNodes.dll
+C:\Users\e79297\source\repos\CountNodes\CountNodes\bin\Debug\netcoreapp2.1\CountNodes.pdb
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.csprojAssemblyReference.cache
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.csproj.CoreCompileInputs.cache
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.AssemblyInfoInputs.cache
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.AssemblyInfo.cs
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.dll
+C:\Users\e79297\source\repos\CountNodes\CountNodes\obj\Debug\netcoreapp2.1\CountNodes.pdb
